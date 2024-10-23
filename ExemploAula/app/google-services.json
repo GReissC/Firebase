@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917853085425",
+    "project_id": "aulafirebase-bcf91",
+    "storage_bucket": "aulafirebase-bcf91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917853085425:android:f0c18ed30cf0025d395350",
+        "android_client_info": {
+          "package_name": "com.example.aulafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuq7n8J4fDnKutLHHv92UqM48lRKCWFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
